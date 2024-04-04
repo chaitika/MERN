@@ -1,0 +1,104 @@
+div{
+    background-color: rgb(211, 221, 221);
+    text-transform: uppercase;
+    font: size 20px;
+    color: red;
+    padding: 10px;
+
+    }
+#heading
+    {
+    background-color: rgb(211, 221, 221);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font: size 20px;
+    color: blue;
+    padding: 10px;
+
+    }
+.heading-two
+    {
+    background-color: rgb(211, 221, 221);
+    text-decoration:underline;
+    text-transform: uppercase;
+    font: size 20px;
+    color: black;
+    padding: 10px;
+    }
+.cases
+{
+    border: 2px solid black;
+    padding: 10px;
+}
+.bigbox
+{
+    background-color: pink;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+.box
+{
+    background-color: red;
+    color: black;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px 20px 20px 20px;
+    text-decoration: none;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+.parent
+{
+    width: 200px;
+    background-color: aqua;
+    text-align: center;;
+    margin: 20px  auto 10px;
+    padding: 20px;
+    border: 20px;
+}
+.image
+{
+    
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0 0 0 0;
+    text-align: center;
+}
+#p1
+{
+    background-color: aqua;
+}
+.p{
+    background-color: black;
+}
+.Box {
+    /* Content dimensions */
+    width: 200px;
+    height: 100px;
+    
+    /* Padding around content */
+    padding-top: 20px; /* 20px padding at the top */
+    padding-right: 30px; /* 30px padding on the right */
+    padding-bottom: 20px; /* 20px padding at the bottom */
+    padding-left: 30px; /* 30px padding on the left */
+    
+    /* Border around padding */
+    border-style: solid;
+    border-width: 5px; /* 5px thick border */
+    border-color: #333; /* Dark grey border */
+    
+    /* Margin around border */
+    margin: 15px; /* 15px margin on all sides */
+    
+    /* Background color of the content area */
+    background-color: lightblue;
+    
+    /* Box sizing */
+    box-sizing: border-box; /* Include padding and border in the element's width and height */
+    
+    /* Additional styling for clarity */
+    text-align: center;
+    line-height: 100px; /* Vertically center text */
+}

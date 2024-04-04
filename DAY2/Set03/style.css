@@ -1,0 +1,26 @@
+.parent
+{
+    background-color: aqua;
+    
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+    
+}
+.child{
+    width: 50px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
+.parent1{
+    justify-content: space-between;
+}
+.parent2{
+    justify-content: space-around;
+}
+.parent3{
+    justify-content: space-evenly;
+}
+.parent4{
+    justify-content: flex-end;
+}
